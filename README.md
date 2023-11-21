@@ -1,1 +1,1 @@
-
+This project was created utilizing Pandas and Matplotlib in order to analyze the effectiveness of various anti-cancer treatment medications on a sample of mice for a new pharmaceutical company. Resources utilized in order to assist with the completion of this project included course material obtained from the University of California Berkeley Data Analytics program, and research on plot formatting and duplicate dropping on Stack Overflow.
